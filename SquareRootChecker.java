@@ -13,7 +13,7 @@ public class SquareRootChecker {
    public static void main (String [] args){
       Scanner scnr = new Scanner(System.in);
       System.out.println("Please enter an integer");
-      double integer = scnr.nextInt();
+      double integer = scnr.nextDouble();
       
 
       if(integer > 0) {
