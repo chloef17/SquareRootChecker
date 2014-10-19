@@ -21,7 +21,7 @@ public class SquareRootChecker {
          }
       else {
          System.out.println("Error, can't find square root.");
-         System.out.println("Please press 't' to try again.");
+         System.out.println("Please press re-run system with a positive integer.");
          }
    }
 }
